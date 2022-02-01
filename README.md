@@ -6,4 +6,8 @@
 
  ### I'm Machine Learning Engineer😁
  - 풀스택 ML 엔지니어를 목표로 공부하고 있습니다.
- 
+
+
+
+
+<a href="https://junnyhi.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Study blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
