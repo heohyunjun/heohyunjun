@@ -5,8 +5,7 @@
 </div>
 
  ### I'm Machine Learning Engineer😁
- - 풀스택 ML 엔지니어를 목표로 공부하고 있습니다.
- - 흥미가 있습니다. NLP에 관해
+ - I am interested in NLP
 
 
 
